@@ -1,8 +1,8 @@
-ola me chamo lucas;
+ola me chamo Lucas;
 
 tenho 15 anos;
 
-moro em macaubal sp;
+moro em Macaubal sp;
 
 gosto de jogor bola;
 
